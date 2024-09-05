@@ -7,6 +7,8 @@
 
 As a Category Manager for HealthMax, a leading company in the shampoo industry, the goal was to perform a detailed market analysis and explore Net Revenue Management (NRM) opportunities. This project utilized advanced Excel techniques to clean data, analyze market trends, and provide strategic recommendations. The following report outlines the steps taken and the key findings from this analysis.
 
+![image](https://github.com/user-attachments/assets/1105b615-8f9e-4657-bd87-b4753f3cf7e1)
+
 ---
 
 #### **Data Cleaning and Preparation**
@@ -45,6 +47,8 @@ As a Category Manager for HealthMax, a leading company in the shampoo industry, 
 4. **Profitability Matrix:**
    - Created a PivotTable in a new worksheet, "Profitability Matrix," organizing data by Gross Margin and Net Sales Contribution. This matrix provided a visual representation of product profitability, assisting in identifying high-performing products.
 
+![image](https://github.com/user-attachments/assets/2794f51f-b08d-4a05-8e8d-e41c9962ca37)
+
 ---
 
 #### **Net Revenue Management (NRM) Opportunities**
@@ -64,6 +68,8 @@ As a Category Manager for HealthMax, a leading company in the shampoo industry, 
 1. **Forecasting and Strategy:**
    - Forecasted net sales for the coming year, demonstrating the potential impact of NRM initiatives on growth.
    - Developed strategic recommendations for management, outlining clear steps to increase net sales and profitability.
+
+![image](https://github.com/user-attachments/assets/7304735a-b6ed-4825-9154-d0eb27a7aee6)
 
 2. **Implementation Roadmap:**
    - Prepared a detailed implementation plan, focusing on leveraging NRM opportunities to unlock extra potential in the market.
